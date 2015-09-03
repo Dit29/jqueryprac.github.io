@@ -1,0 +1,70 @@
+	<!-- Homepage -->
+	<div data-role="page" id="home">
+		<div data-role="header">
+			<h1>Homepage</h1>
+		</div>
+		<div data-role="content">
+			<p>Content here...</p>
+		</div>
+		<div data-role="footer">
+			<h4>&copy;2012 myCompany</h4>
+		</div>
+	</div>
+	
+	<!-- About Us -->
+	<div data-role="page" id="about_us" data-title="About Us">
+		<div data-role="header">
+			<h1>About Us</h1>
+		</div>
+		<div data-role="content">
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<p><img style="float:right;margin-left:15px;" src="images/photo_about_us.jpg" />Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div data-role="footer">
+			<h4>&copy;2012 myCompany</h4>
+		</div>
+	</div>
+	
+	<!-- Services -->
+	<div data-role="page" id="services" data-title="Services">
+		<div data-role="header">
+			<h1>Services</h1>
+		</div>
+		<div data-role="content">
+			<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p>...Links to services...</p>
+		</div>
+		<div data-role="footer">
+			<h4>&copy;2012 myCompany</h4>
+		</div>
+	</div>
+	
+	<!-- Locations -->
+	<div data-role="page" id="locations" data-title="Find a Locations">
+		<div data-role="header">
+			<h1>Locations</h1>
+		</div>
+		<div data-role="content">
+			<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+			<h2>Find a location</h2>
+			<p>...Country list here...</p>
+		</div>
+		<div data-role="footer">
+			<h4>&copy;2012 myCompany</h4>
+		</div>
+	</div>
+	
+	<!-- Contact Us -->
+	<div data-role="page" id="contact_us" data-title="Contact Us">
+		<div data-role="header">
+			<h1>Contact Us</h1>
+		</div>
+		<div data-role="content">
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<p>Street Address<br/>City, Country</p>
+			<p><a href="tel:5555555555">(555) 555-5555</a></p>
+		</div>
+		<div data-role="footer">
+			&nbsp;
+		</div>
+	</div>
